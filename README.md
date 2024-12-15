@@ -2,8 +2,8 @@
 
 ## Project Overview
 
-This project analyzes a dataset containing information about restaurant chains worldwide, sourced from Zomato and made available through Kaggle. The objective is to perform descri![ZOMATO](https://github.com/user-attachments/assets/e53b0b7d-3882-4259-81cb-e81c465c7c09)
-ptive and statistical analyses to extract actionable insights and present them in an interactive dashboard.
+This project analyzes a dataset containing information about restaurant chains worldwide, sourced from Zomato and made available through Kaggle. The objective is to perform descriptive and statistical analyses to extract actionable insights and present them in an interactive dashboard.
+![ZOMATO](https://github.com/user-attachments/assets/e53b0b7d-3882-4259-81cb-e81c465c7c09)
 
 ## Dataset Details
 
